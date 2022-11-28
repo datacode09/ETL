@@ -1,6 +1,6 @@
 # ETL
-DDL- Includes create table command
-test.csv - test data
+- DDL- Includes create table command
+- test.csv - test data
 
 # Table
 Department
